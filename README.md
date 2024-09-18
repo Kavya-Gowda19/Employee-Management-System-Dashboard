@@ -1,4 +1,4 @@
-**SDMIT Ujire Employee Management System Dashboard**
+**Employee Management System Dashboard**
 
 ```markdown
 # SDMIT Ujire Employee Management System Dashboard
@@ -7,40 +7,30 @@ This project is a web-based Employee Management System designed for SDMIT Ujire.
 
 ## Features
 
-- **Add Employee Details**: Add new employees to the system.
-- **Update Employee Details**: Modify existing employee records.
-- **Delete Employee Details**: Remove employee records from the system.
-- **View Employee Details**: View individual employee information.
-- **View All Employee Records**: Browse through all employees in the system.
-- **Logout**: Securely log out of the system.
+- Add Employee Details: Add new employees to the system.
+- Update Employee Details: Modify existing employee records.
+- Delete Employee Details: Remove employee records from the system.
+- View Employee Details: View individual employee information.
+- View All Employee Records: Browse through all employees in the system.
+- Logout: Securely log out of the system.
 
 ## Technologies Used
 
-- **HTML5**: For structuring the web pages.
-- **Bootstrap 4**: For responsive design and prebuilt UI components.
-- **CSS**: For custom styles and layout adjustments.
-- **JavaScript**: For enhancing user interaction (if any in future).
-- **FontAwesome** and **Remix Icons**: For iconography in the UI.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/employee-management-dashboard.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd employee-management-dashboard
-   ```
-
-3. Open `index.html` in your browser to view the dashboard.
+- HTML5: For structuring the web pages.
+- Bootstrap 4: For responsive design and prebuilt UI components.
+- CSS: For custom styles and layout adjustments.
+- JavaScript: For enhancing user interaction (if any in future).
+- FontAwesome and Remix Icons: For iconography in the UI.
 
 ## Usage
 
 - Use the navigation links on the dashboard to manage employee data.
 - Each section provides functionality to perform specific actions related to employee management.
 - The application is designed with a responsive layout, ensuring usability across different screen sizes.
+
+## Images
+
+![db1](https://github.com/user-attachments/assets/f32b83a9-18a3-40b9-857b-b6243f53a39a)
 
 ## Contributing
 
