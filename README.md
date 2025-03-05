@@ -29,10 +29,9 @@ This project is a web-based Employee Management System designed for SDMIT Ujire.
 - The application is designed with a responsive layout, ensuring usability across different screen sizes.
 
 ## Images
-!![db1](https://github.com/user-attachments/assets/3b33981a-4df4-4c6d-9b58-eb9a53e58d50)
 
-![db1](https://github.com/user-attachments/assets/a290eac3-cc07-4a1d-9236-d2377180b388)
-![db1](https://github.com/user-attachments/assets/2206ebc1-3d19-4630-9036-812ff48445da)
+![db1](https://raw.githubusercontent.com/your-username/repository-name/main/images/db1.png)
+
 
 
 
