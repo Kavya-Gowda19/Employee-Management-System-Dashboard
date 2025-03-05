@@ -33,6 +33,8 @@ This project is a web-based Employee Management System designed for SDMIT Ujire.
 
 
 ![db1](https://github.com/user-attachments/assets/caad9aa8-0269-408f-9467-afa8f3c64076)
+![db1](https://raw.githubusercontent.com/your-username/your-repository/main/db1.png)
+
 
 
 ## Contributing
