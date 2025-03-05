@@ -30,7 +30,7 @@ This project is a web-based Employee Management System designed for SDMIT Ujire.
 
 ## Images
 
-<img src="https://raw.githubusercontent.com/your-username/repository-name/main/images/db1.png" width="400">
+"C:\Users\kavya\Downloads\db1.png"
 
 
 
